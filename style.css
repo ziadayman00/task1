@@ -1,0 +1,220 @@
+.header{
+    font-family: 'playfair display', sans-serif;
+    width: 563px;
+    height: 154px;
+    text-align: center;
+    margin-left: 438.5px;
+    font-weight: 500;
+    font-size: 64px;
+    /* height: 76.8px; */
+}
+.welcome{
+    font-family: 'inter', sans-serif;
+    width: 631px;
+    height: 64px;
+    font-weight: 400;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 404.5px;
+    line-height: 32px;
+    color: #282A3A;
+}
+.discover{
+    background-color: #6D1600;
+    border: none;
+    width: 363px;
+    height: 82px;
+    /* border-radius: 32px; */
+    margin-top: 24px;
+    margin-left: 538.5px;
+    color: white;
+    font-family: 'playfair display', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.6px;
+    border-bottom-left-radius: 32px;
+    border-top-right-radius: 32px;
+    margin-bottom: 24px;
+}
+.container{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-bottom: 112px;
+
+}
+.photo1, .photo3, .photo5{
+    width: 243.2px;
+    height: 348px;
+    border: none;
+    border-bottom-left-radius: 80px;
+    border-top-right-radius: 80px;
+    margin-right: 16px;
+    
+}
+.photo2, .photo4{
+    width: 243.2px;
+    height: 348px;
+    border: none;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    margin-right: 16px;
+}
+.menu{
+    display: flex;
+   
+}
+.products{
+    font-family: 'inter', sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 447px;
+    margin-right: 56px;
+}
+.About_us, .testimonial, .contact{
+    font-family: 'inter', sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    margin-right: 56px;
+}
+.underline{
+    margin-top: 15px;
+    margin-left: 160px;
+    background-color: #282A3A;
+    height: 1px;
+    width: 1120px;
+}
+.social{
+}
+.numbers{
+    display: flex;
+    margin-left: 170.5px;
+    justify-content: center;
+    
+}
+.captions{
+
+    justify-content: center;
+    display: flex;
+    margin-left: 170.5px;
+
+}
+.thirty, .twinty, .twinty_five, .fourty{
+    width: 214px;
+    height: 114px;
+    font-family: 'inter', sans-serif;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 76.8px;
+    margin-right: 81px;
+}
+.coffee_variant, .meeting_room, .event_space, .global{
+    font-family: 'playfair display', sans-serif;
+    width: 214px;
+    height: 29px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.8px;
+    margin-right: 81px;
+
+}
+.underline1{
+    margin-left: 160px;
+    background-color: #282A3A;
+    height: 1px;
+    width: 1120px;
+    margin-top: 80px;
+}
+.body{
+    /* display: flex; */
+}
+.our_products{
+    display: flex;
+    margin-top: 80px;
+    width: 149px;
+    height: 29px;
+    opacity: 56%;
+    font-family: 'inter', sans-serif;
+    font-size: 24px;
+    line-height: 28.8px;
+    color: #282A3A;
+    margin-left: 645.5px;
+}
+.comment{
+    display: flex;
+    width: 443px;
+    height: 43px;
+    font-family: 'playfair display', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43.2px;
+    color: #000816;
+    margin-left: 498.5px;
+    
+}
+.body1{
+    display: flex;
+    justify-content: center;
+}
+.types{
+    justify-content: center;
+    margin-top: 240px;
+    margin-left: 352px;
+    display: flex;
+    width: 556px;
+    height: 77px;
+    border: none;
+    border-radius: 40px;
+    background-color: #F6F6F6;
+    
+
+}
+.cups{
+    display: flex;
+    margin-top: 40.36px;
+}
+.cup1{
+    margin-left: 85.06px;
+}
+
+.c1, .c2, .c3, .c4{
+    margin-right: 16.63px;
+    display: flex;
+    width: 299.32px;
+    height: 240px;
+    border: none;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    margin-top: 40.36px;
+    margin-bottom: 16px;
+}
+.chocolate, .mocha, .latte, .hazelnut{
+    width: 251.32px;
+    height: 34px;
+    font-weight: 400;
+    font-size: 24px;
+    justify-content: center;
+}
+.rating1, .rating2, .rating3, .rating4{
+    width: 61px;
+    height: 24;
+    font-weight: 700;
+    font-size: 34px;
+    margin-bottom: 8px;
+}
+.explaination1, .explaination2, .explaination3, .explaination4{
+    width: 251.32px;
+    height: 66px;
+    font-size: 16px;
+    font-family: 'inter', sans-serif;
+    opacity: 70%;
+}
+.price1, .price2, .price3, .price4{
+    width: 203.32px;
+    height: 24;
+    font-family: 'inter', sans-serif;
+    font-weight: bold;
+    margin-top: 16px;
+    font-size: 20px;
+}
